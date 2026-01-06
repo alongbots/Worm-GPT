@@ -67,7 +67,7 @@ cd worm-gpt
 ## Automated Setup
 
 ```bash
-chmod +x setup.sh
+chmod +x *
 ./setup.sh
 ```
 
